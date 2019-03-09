@@ -16,5 +16,5 @@ File called 5let.py in this repo
 
 # Results for the four 5 letter unordered pairs  
 
-![unordered.png](cpunordered.png)  
+![unordered.png](cpunorderd.png)  
 
